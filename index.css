@@ -1,0 +1,15 @@
+body { 
+    font-family: 'Manrope', sans-serif;
+    background: #FAFAFA;
+}
+    
+.section-hero h1 {
+    font-size: 48px;
+    font-weight: 7700;
+}
+    
+.section-hero p {
+    font-size: 16px;
+    color: #7e7e7e;
+    line-height: 30px;   
+}
